@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # Copyright 2017 OTfStB
 # Written by Ember
+# https://github.com/Emberium/OTfStB
 
 
 def parse_string(string):
